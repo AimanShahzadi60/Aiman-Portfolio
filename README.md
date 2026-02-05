@@ -13,13 +13,13 @@
 
 ## 💫 About Me
 
-🚀 Full-Stack Developer with **2+ years** of experience building production-ready web applications
+🚀 Full-Stack Developer with **3+ years** of experience building production-ready web applications
 
 🏢 Currently working at **[NeuroOceans.AI](https://neurooceans.ai/)**
 
 🔭 Working on **AI-powered platforms** and **enterprise solutions**
 
-🌍 Based in Pakistan | Soon moving to **Germany** for further studies at University of Koblenz
+🌍 Based in Pakistan 
 
 💡 Passionate about creating scalable, user-centric applications that solve real-world problems
 
@@ -108,6 +108,8 @@ Advanced audio processing and voice technology platform.
 ---
 
 <!-- <div align="center">
+
+| Soon moving to **Germany** for further studies at University of Koblenz
   
 ![Profile Views](https://komarev.com/ghpvc/?username=AimanShahzadi60&color=blueviolet&style=for-the-badge)
 
