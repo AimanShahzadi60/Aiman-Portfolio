@@ -47,6 +47,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+### SEO & Analytics
+![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Search Console](https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google-search-console&logoColor=white)
+
 </div>
 
 ---
@@ -104,8 +109,6 @@ Advanced audio processing and voice technology platform.
 [![NeuroOceans](https://img.shields.io/badge/NeuroOceans.AI-00C7B7?style=for-the-badge&logo=artificial-intelligence&logoColor=white)](https://neurooceans.ai/)
 
 </div>
-
----
 
 <!-- <div align="center">
 
