@@ -94,25 +94,6 @@ Advanced audio processing and voice technology platform.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/AimanShahzadi60">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AimanShahzadi60&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimanShahzadi60&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AimanShahzadi60&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -126,10 +107,10 @@ Advanced audio processing and voice technology platform.
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=AimanShahzadi60&color=blueviolet&style=for-the-badge)
 
 ### ⭐ If you like my work, consider giving a star to my repositories!
 
-</div>
+</div> -->
