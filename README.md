@@ -89,11 +89,11 @@ Advanced audio processing and voice technology platform.
 
 | Project | Description | Link |
 |---------|-------------|------|
-| 🌊 **NeuroOceans** | AI Company Website | [Visit](https://neurooceans.ai/) |
+| 🌊 **NeuroOceans** | AI Tech Company Website | [Visit](https://neurooceans.ai/) |
 | ✈️ **NeuroOcean Tours** | Travel & Tourism Platform | [Visit](https://www.neurooceantours.com/) |
 | 📊 **GaapIQ** | Financial Intelligence Platform | [Visit](https://gaapiq.ai/) |
-| ⛺ **Al Saudi Tents** | E-commerce Website | [Visit](https://www.alsauditents.com/) |
-| 💻 **Basat Anwar Tech** | Tech Company Website | [Visit](https://basatanwertech.com/) |
+| ⛺ **Al Saudi Tents** | Construction Site Website | [Visit](https://www.alsauditents.com/) |
+| 💻 **Basat Anwar Tech** | Renovation and Construction Company Website | [Visit](https://basatanwertech.com/) |
 
 *...and many more contributions to various projects!*
 
