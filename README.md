@@ -65,7 +65,7 @@
 <td width="50%">
 
 #### 🧬 LifeWeaver
-An AI-powered platform revolutionizing healthcare solutions.
+An AI-powered platform Gathering your shattered memories.
 
 🔗 [Live Demo](https://www.lifeweaver.ai/)
 
