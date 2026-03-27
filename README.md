@@ -75,7 +75,7 @@ An AI-powered platform Gathering your shattered memories.
 <td width="50%">
 
 #### 🎙️ Audivox
-Advanced audio processing and voice technology platform.
+AI-Powered Sales Intelligence Platform that Transform your sales conversations into structured data. Real-time AI assistance, automatic GoHighLevel updates, and performance insights—all in one platform.
 
 🔗 [Live Demo](https://main.d36mtnexhzaxfi.amplifyapp.com/)
 
